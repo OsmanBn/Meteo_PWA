@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Meteo_PWA/static/css/main.4ef51cac.css",
+    "main.js": "/Meteo_PWA/static/js/main.550bbc52.js",
+    "static/media/bg.jpg": "/Meteo_PWA/static/media/bg.7b83f7cda99cf768cbb6.jpg",
+    "index.html": "/Meteo_PWA/index.html",
+    "main.4ef51cac.css.map": "/Meteo_PWA/static/css/main.4ef51cac.css.map",
+    "main.550bbc52.js.map": "/Meteo_PWA/static/js/main.550bbc52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef51cac.css",
+    "static/js/main.550bbc52.js"
+  ]
+}
